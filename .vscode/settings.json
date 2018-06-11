@@ -1,0 +1,8 @@
+{
+    "python.formatting.provider": "autopep8",
+    "python.unitTest.promptToConfigure": false,
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.pythonPath": "/home/mulns/anaconda3/bin/python"
+}
